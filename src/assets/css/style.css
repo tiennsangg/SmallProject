@@ -1,0 +1,39 @@
+.wrapper {
+  width: 100%;
+}
+
+.add-todo {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+  margin-bottom: 50px;
+}
+
+.list-todo {
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+.list-todo ul li {
+  list-style-type: none;
+  text-align: start;
+  padding-left: 22%;
+}
+
+.info {
+  width: 48%;
+  margin: auto;
+  text-align: start;
+}
+
+.navbar {
+  margin-bottom: 10px;
+}
+
+.searchTodo {
+  width: 30%;
+  margin: auto;
+  margin-bottom: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
